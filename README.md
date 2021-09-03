@@ -7,3 +7,6 @@
 JavaScript   4 hrs 16 mins   █████████████████████████   99.85 % 
 ```
 <!--END_SECTION:waka-->
+
+### Schedule
+I currently don't have a schedule for working nor for when I release commits (other then when they're ready) as I'm currently busy with school and work.
