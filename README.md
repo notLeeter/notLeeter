@@ -19,3 +19,7 @@ All projects are currently private!
   
 ### Schedule
 I currently don't have a schedule for working on projects nor for when I release commits (other then when they're ready) as I'm currently busy with school and work.
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=notleeter&column=7&theme=darkhub&no-frame=true&no-background=true" alt="account throphys" />
+</p>
