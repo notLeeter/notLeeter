@@ -12,6 +12,9 @@ All projects are currently private!
   - more info when it's ready 👀
 - Password-manager
   - ***Currently on hold***, as the name suggests, a password manager. Big project and currently no motivation to continue working on it. I'm not releasing it's cs untill I think it's at least somewhat secure and viable to be used. Will exist of a server install to host it yourself and some kind of application.
+- Music-bot
+  - A music bot for discord created after the shutdown of groovy and rythm.
+  - Will not be made public to prevent a takedown notice from youtube.
   
 ### Schedule
 I currently don't have a schedule for working on projects nor for when I release commits (other then when they're ready) as I'm currently busy with school and work.
