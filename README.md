@@ -15,6 +15,8 @@ All projects are currently private!
 - Music-bot
   - A music bot for discord created after the shutdown of groovy and rythm.
   - Will not be made public to prevent a takedown notice from youtube.
+- osu!Randomizer
+  - An application that will randomize osu! hitobject placements.
   
 ### Schedule
 I currently don't have a schedule for working on projects nor for when I release commits (other then when they're ready) as I'm currently busy with school and work.
