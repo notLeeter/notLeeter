@@ -1,7 +1,7 @@
 ## 💖 About
 🇳🇱 From the Netherlands, 16 years old. <br />
 📚 Currently studying: Physics, Science, Math, ICT and Biology. <br />
-🧐 Currently practising C# (.NET) and planning on learning rust! <br />
+🧐 Currently practising Python, C# (.NET) and planning on learning rust! <br />
 🏳️‍⚧️ 🏳️‍🌈 Trans (She/Her), Gay, Awesome! <br />
 ⭐ I spend my free time gaming and coding (I mostly play r6s, <a href="https://osu.ppy.sh/users/21158986">osu!<a/> and csgo) :) <br />
 💼 For business inquiries please contact me on discord (Leeter#0001)!
