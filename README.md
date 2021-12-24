@@ -14,7 +14,7 @@
 </p>
 
 ## Public Projects
-All my projects are currently private or I'm not working on any!
+[anti session stealer](https://github.com/notLeeter/anti-session-stealer) is a program that aims to automatically delete webhooks from minecraft session stealers
   
 ## Schedule
 I currently don't have a schedule for working on projects nor for when I release commits (other then when they're ready) as I'm currently busy with school and work.
