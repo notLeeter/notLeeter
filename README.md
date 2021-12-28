@@ -4,7 +4,7 @@
 🧐 Currently practising Python, C# (.NET) and planning on learning rust! <br />
 🏳️‍⚧️ 🏳️‍🌈 Trans (She/Her), Gay, Awesome! <br />
 ⭐ I spend my free time gaming and coding (I mostly play r6s, <a href="https://osu.ppy.sh/users/21158986">osu!<a/> and csgo) :) <br />
-💼 For business inquiries please contact me on discord (Leeter#0001)!
+💼 If you want to contact me please do so on [discord](https://discordapp.com/users/399173689507315714/)!
 <!--- 🔗 You can visit my site <a href="about.leeter.dev">here</a>! -->
 
 ## 📈 Some coding stats:
