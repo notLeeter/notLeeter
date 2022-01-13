@@ -3,7 +3,7 @@
 ## 💖 About
 🇳🇱 From the Netherlands, 16 years old. <br />
 📚 Currently studying havo in the Netherlands. <br />
-🧐 Currently practising Python, C# (.NET) and planning on learning rust! <br />
+🧐 Currently practising Typescript and I'm planning on learning Rust, C# (.NET) and Python! <br />
 ⭐ I spend my free time gaming and coding (I mostly play r6s, <a href="https://osu.ppy.sh/users/21158986">osu!<a/> and csgo/valorant) :) <br />
 💼 If you want to contact me please do so on [discord](https://discordapp.com/users/399173689507315714/)!
 <!--- 🔗 You can visit my site <a href="about.leeter.dev">here</a>! -->
