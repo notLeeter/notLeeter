@@ -1,7 +1,7 @@
 <!-- If you're reading this please don't tell anyone in school I'm trans, I hid it for a reason :D -->
 
 ## 💖 About
-🇳🇱 From the Netherlands, 16 years old. <br />
+🇳🇱 From the Netherlands, 17 years old. <br />
 📚 Currently studying havo in the Netherlands. <br />
 🧐 Currently practising Typescript and I'm planning on learning Rust, C# (.NET) and Python! <br />
 ⭐ I spend my free time gaming and coding (I mostly play r6s, <a href="https://osu.ppy.sh/users/21158986">osu!<a/> and csgo/valorant) :) <br />
