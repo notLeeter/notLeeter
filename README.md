@@ -19,7 +19,7 @@
 
 ## Public Projects
 **Most of the projects I work on are closed source but here are the open source projects I'm working on!**  
- - [anti session stealer](https://github.com/notLeeter/anti-session-stealer) is a project that aims to automatically delete webhooks and warn users from minecraft session stealers!
+<!--  - [anti session stealer](https://github.com/notLeeter/anti-session-stealer) is a project that aims to automatically delete webhooks and warn users from minecraft session stealers! -->
   
 ## Schedule
 I currently don't have a schedule for working on projects nor for when I release commits (other then when they're ready) as I'm currently busy with school and work.
