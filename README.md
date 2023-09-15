@@ -25,6 +25,10 @@
 ## Schedule
 I currently don't have a schedule for working on projects nor for when I release commits (other then when they're ready).
 
+## Support me!
+If you want to support me you can do so at the following places!  
+<a href="https://www.buymeacoffee.com/notLeeter" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 <!-- <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=notleeter&column=7&theme=darkhub&no-frame=true&no-background=true" alt="account throphys" />
 </p> -->
