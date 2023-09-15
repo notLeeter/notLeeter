@@ -19,7 +19,7 @@
 
 ## Public Projects
 **Most of the projects I work on are closed source but here are the open source projects I'm working on (if any)!**  
-[focus](https://github.com/notLeeter/focus) is a firefox extension that aims to help you focus while you're working!
+* [focus](https://github.com/notLeeter/focus) is a firefox extension that aims to help you focus while you're working!
 <!--  - [anti session stealer](https://github.com/notLeeter/anti-session-stealer) is a project that aims to automatically delete webhooks and warn users from minecraft session stealers! -->
   
 ## Schedule
