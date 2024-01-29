@@ -6,7 +6,7 @@
 🧐 Currently practising Typescript and I'm planning on learning Rust, C# (.NET) and Python! <br />
 ⭐ I spend my free time gaming and coding (I mostly play r6s, <a href="https://osu.ppy.sh/users/21158986">osu!<a/> and csgo/valorant) :) <br />
 💼 If you want to contact me please do so on [discord](https://discordapp.com/users/399173689507315714/)! <br />
-🔗 You can visit my site <a href="leeter.dev">here</a>!
+🔗 You can visit my site <a href="https://leeter.dev">here</a>!
 <!-- 🏳️‍⚧️ 🏳️‍🌈 Trans (She/Her), Gay, Awesome! <br />-->
 
 ## 📈 Some coding stats:
