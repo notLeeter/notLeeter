@@ -1,34 +1,19 @@
 <!-- If you're reading this please don't tell anyone in school I'm trans, I hid it for a reason :D -->
 
 ## 💖 About
-🇳🇱 From the Netherlands. <br />
-📚 Graduated Havo N&T and Havo N&G <br />
-🧐 Currently practising Typescript and I'm planning on learning Rust, C# (.NET) and Python! <br />
-⭐ I spend my free time gaming and coding (I mostly play r6s, <a href="https://osu.ppy.sh/users/21158986">osu!<a/> and csgo/valorant) :) <br />
-💼 If you want to contact me please do so on [discord](https://discordapp.com/users/399173689507315714/)! <br />
+🇳🇱 From the Netherlands.  
+📚 Graduated Havo N&T and Havo N&G  
+🧐 Currently studying Applied Computer Sciences!  
+⭐ I spend my free time gaming and coding (I mostly play r6s and strinova :)  
+🖥️ My most used languages are (node)JS/TS, Java and C  
+💼 If you want to contact me please do so on [discord](https://discordapp.com/users/399173689507315714/)!  
 🔗 You can visit my site <a href="https://leeter.dev">here</a>!
+<!-- if you see this a special extra one :) -->
 <!-- 🏳️‍⚧️ 🏳️‍🌈 Trans (She/Her), Gay, Awesome! <br />-->
 
-## 📈 Some coding stats:
-<p float="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=notLeeter&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <br />
-  
-  <!-- Top languages used in the past year:  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=notLeeter&layout=compact" alt="wakatime stats" /> -->
-</p>
-
-## Public Projects
-**Most of the projects I work on are closed source but here are the open source projects I'm working on (if any)!**  
-* [focus](https://github.com/notLeeter/focus) is a firefox extension that aims to help you focus while you're working!
-<!--  - [anti session stealer](https://github.com/notLeeter/anti-session-stealer) is a project that aims to automatically delete webhooks and warn users from minecraft session stealers! -->
+## Projects
+Currently all the projects I'm working on are for work or for my education and therefor not public, sorry!  
+*This is also why my contributions are low :(*
   
 ## Schedule
 I currently don't have a schedule for working on projects nor for when I release commits (other then when they're ready).
-
-## Support me!
-If you want to support me you can do so at the following places!  
-<a href="https://www.buymeacoffee.com/notLeeter" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-<!-- <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=notleeter&column=7&theme=darkhub&no-frame=true&no-background=true" alt="account throphys" />
-</p> -->
